@@ -39,7 +39,7 @@
                
                 <li class="nav-item">
                     <!-- <button type="submit" class="btn btn-outline-danger btn-sm  nav-link"><i class="me-1 fas fa-user"></i>Logout</button> -->
-                    <a href="" class="nav-link"><i class="me-1 fas fa-user"></i>Logout</a>
+                    <a href="" class="nav-link"><i class="me-1 fas fa-user"></i>Logout a</a>
                 </li>
             </ul>
         </div>
